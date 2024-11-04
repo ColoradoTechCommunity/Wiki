@@ -8,6 +8,7 @@
 - [Boulder JS](https://www.meetup.com/boulder-js/)
 - [Boulder Ruby](https://lu.ma/boulder-ruby)
 - [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/)
+- [Boulder Tech Connect](https://www.meetup.com/boulder-tech-connect/)
 - [Cocoaheads Denver](https://www.meetup.com/cocoaheadsdenver/)
 - [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/)
 - [DDD Denver](https://www.meetup.com/ddd-denver/)
