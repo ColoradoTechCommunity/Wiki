@@ -30,7 +30,7 @@
 - [React Denver](https://reactdenver.com/) (has its own Discord group)
 - [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/)
 - [Technical Misfits](https://www.meetup.com/technical-misfits/)
-- [TechYeet](https://www.meetup.com/techyeet-colorado/) (has its own Slack group)
+- [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
 
 ## Active post-COVID but currently inactive
 
