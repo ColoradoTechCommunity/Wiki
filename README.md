@@ -16,7 +16,6 @@
 - [Denver DevOps Meetup](https://www.meetup.com/denverdevops/)
 - [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/)
 - [Denver Java Users Group](https://www.meetup.com/denverjavausersgroup/)
-- [Denver Microservices](https://www.meetup.com/DenverMicroservices/)
 - [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/)
 - [Denver Python Meetup](https://meetup.com/denver-python-meetup/)
 - [Denver Python Users Group](https://www.meetup.com/denverpython/)
@@ -30,13 +29,14 @@
 - [New Tech Colorado](https://www.meetup.com/bdnewtech/)
 - [React Denver](https://reactdenver.com/) (has its own Discord group)
 - [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/)
-- [Technical Misfits](https://www.meetup.com/technical-misfits/)
 - [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
 - [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/)
 
 ## Active post-COVID but currently inactive
 
 - [The Den of Clojure](https://www.meetup.com/denofclojure/) (since Jul 2023)
+- [Denver Microservices](https://www.meetup.com/DenverMicroservices/) (since Feb 2024)
 - [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) (since Oct 2022)
 - [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) (since Mar 2023)
 - [Rust Denver](https://www.meetup.com/rust-boulder-denver/) (since Apr 2022)
+- [Technical Misfits](https://www.meetup.com/technical-misfits/) (since Aug 2024)
