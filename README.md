@@ -20,6 +20,7 @@
 - [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/)
 - [Denver Python Meetup](https://meetup.com/denver-python-meetup/)
 - [Denver Python Users Group](https://www.meetup.com/denverpython/)
+- [Denver R User Group](https://www.meetup.com/DenverRUG/)
 - [DenverScript](https://www.meetup.com/denverscript/)
 - [Develop Denver](https://www.meetup.com/develop-denver/)
 - [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) (networking)
