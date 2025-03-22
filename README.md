@@ -16,6 +16,7 @@
 - [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/)
 - [DDD Denver](https://www.meetup.com/ddd-denver/)
 - [Denver|CO Fintech](https://meetup.com/denver-co-fintech/) (networking)
+- [Denver Data Engineering and Architecture Meetup Group](https://www.meetup.com/denver-data-engineering-meetup-group/)
 - [Denver DevOps Meetup](https://www.meetup.com/denverdevops/)
 - [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/)
 - [Denver Food and Tech](https://www.meetup.com/denverfoodandtech/)
