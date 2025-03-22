@@ -18,6 +18,7 @@
 - [Denver|CO Fintech](https://meetup.com/denver-co-fintech/) (networking)
 - [Denver DevOps Meetup](https://www.meetup.com/denverdevops/)
 - [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/)
+- [Denver Food and Tech](https://www.meetup.com/denverfoodandtech/)
 - [Denver Java Users Group](https://www.meetup.com/denverjavausersgroup/)
 - [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/)
 - [Denver Python Meetup](https://meetup.com/denver-python-meetup/)
