@@ -1,5 +1,7 @@
 # List of Colorado Tech Meetups
 
+[Code Talent](https://www.code-talent.com/) maintains a [calendar of events](https://www.code-talent.com/event-calendar) it hosts, which may include events that are not put on by the following groups.
+
 ## Active
 
 - [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/)
