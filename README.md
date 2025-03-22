@@ -31,6 +31,7 @@
 - [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/)
 - [Technical Misfits](https://www.meetup.com/technical-misfits/)
 - [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
+- [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/)
 
 ## Active post-COVID but currently inactive
 
