@@ -4,6 +4,7 @@
 
 ## Active
 
+- [AI Tinkerers – Denver-Boulder](https://denver-boulder.aitinkerers.org/)
 - [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/)
 - [Boulder AI Builders](https://www.boulderaibuilders.org)
 - [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/)
