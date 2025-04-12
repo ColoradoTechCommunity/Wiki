@@ -40,6 +40,7 @@
 ## Active since COVID but currently inactive
 
 - [The Den of Clojure](https://www.meetup.com/denofclojure/) (since Jul 2023)
+- [Bootcampers Collective](https://www.meetup.com/Bootcampers-Collective/) (since Jul 2024)
 - [Denver Microservices](https://www.meetup.com/DenverMicroservices/) (since Feb 2024)
 - [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) (since Oct 2022)
 - [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) (since Mar 2023)
