@@ -31,6 +31,7 @@
 - [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) (networking)
 - [Front Range Platform Engineering](https://www.meetup.com/front-range-platform-engineering/)
 - [The Future of Web3 (0xFW3)](https://lu.ma/0xfw3)
+- [GDG Denver](https://www.meetup.com/gdg-denver/)
 - [Mile High Gophers - Denver](https://meetup.com/denver-go-language-user-group/)
 - [New Tech Colorado](https://www.meetup.com/bdnewtech/)
 - [React Denver](https://reactdenver.com/) (has its own Discord group)
