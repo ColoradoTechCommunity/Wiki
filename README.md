@@ -36,6 +36,7 @@
 - [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/)
 - [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
 - [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/)
+- [UX Book Club Denver](https://www.meetup.com/uxbc-denver/)
 
 ## Active since COVID but currently inactive
 
