@@ -37,6 +37,7 @@
 - [New Tech Colorado](https://www.meetup.com/bdnewtech/)
 - [React Denver](https://reactdenver.com/) (has its own Discord group)
 - [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/)
+  - [Denver AI Group](https://www.meetup.com/denverai/)
 - [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
 - [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/)
 - [UX Book Club Denver](https://www.meetup.com/uxbc-denver/)
