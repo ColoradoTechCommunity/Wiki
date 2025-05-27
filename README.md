@@ -46,6 +46,7 @@
 - [TechYeet](https://www.meetup.com/techyeet/) (has its own Slack group)
 - [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/)
 - [UX Book Club Denver](https://www.meetup.com/uxbc-denver/)
+- [Women in Technical Infrastructure (WITI)](https://www.meetup.com/women-in-technical-infrastructure-witi/)
 
 ## Active since COVID but currently inactive
 
