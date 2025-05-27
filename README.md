@@ -40,7 +40,7 @@
 - [Front Range Platform Engineering](https://www.meetup.com/front-range-platform-engineering/)
 - [The Future of Web3 (FW3)](https://lu.ma/fw3)
 - [GDG Denver](https://www.meetup.com/gdg-denver/)
-- [Meet n Code](https://www.meetup.com/meet-n-code/)
+- [Meet n Code](https://www.meetup.com/meet-n-code/) (has its own Discord group)
 - [Mile High Gophers - Denver](https://meetup.com/denver-go-language-user-group/)
 - [New Tech Colorado](https://www.meetup.com/bdnewtech/)
 - [React Denver](https://reactdenver.com/) (has its own Discord group)
