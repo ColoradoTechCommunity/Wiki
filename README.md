@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > This list keeps its value with regular maintenance, and that requires the help of the community. If you know of a meetup that isn't listed, has become inactive, is listed but shouldn't be, or anything else you think would improve this list, please submit an Issue or Pull Request.
 
-[Code Talent](https://www.code-talent.com/) maintains a [calendar of events](https://www.code-talent.com/event-calendar) it hosts, which may include events that are not put on by the following groups.
+[Code Talent](https://www.code-talent.com/) maintains a [calendar of events](https://code-talent.com/meetups) it hosts, which may include events that are not put on by the following groups.
 
 ## Active
 
