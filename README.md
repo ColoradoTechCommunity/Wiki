@@ -59,11 +59,11 @@
 
 ## Active since COVID but currently inactive
 
-| Meetup | Topic | Type | Notes
-| ------ | ----- | ---- | -----
-| [The Den of Clojure](https://www.meetup.com/denofclojure/) | Clojure | | Inactive since Jul 2023.
-| [Bootcampers Collective](https://www.meetup.com/Bootcampers-Collective/) | Bootcampers and self-taught developers | | Inactive since Jul 2024.
-| [Denver Microservices](https://www.meetup.com/DenverMicroservices/) | Microservices | | Inactive since Feb 2024.
-| [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) | FOSS | | Inactive since Oct 2022.
-| [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) | Vue.js | | Inactive since Mar 2023.
-| [Rust Denver](https://www.meetup.com/rust-boulder-denver/) | Rust | | Inactive since Apr 2022.
+| Meetup | Topic | Inactive since
+| ------ | ----- | --------------
+| [The Den of Clojure](https://www.meetup.com/denofclojure/) | Clojure | Jul 2023
+| [Bootcampers Collective](https://www.meetup.com/Bootcampers-Collective/) | Bootcampers and self-taught developers | Jul 2024
+| [Denver Microservices](https://www.meetup.com/DenverMicroservices/) | Microservices | Feb 2024
+| [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) | FOSS | Oct 2022
+| [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) | Vue.js | Mar 2023
+| [Rust Denver](https://www.meetup.com/rust-boulder-denver/) | Rust | Apr 2022
