@@ -12,6 +12,7 @@
 - [Boulder Ruby](https://lu.ma/boulder-ruby)
 - [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/) – Needs an organizer.
 - [Boulder Tech Connect](https://www.meetup.com/boulder-tech-connect/)
+- [The Brain Wave Collective](https://www.meetup.com/brain-wave-collective/)
 - [Cocoaheads Denver](https://www.meetup.com/cocoaheadsdenver/)
 - [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/)
 - [Colorado Product Meetup](https://www.meetup.com/colorado-product/)
