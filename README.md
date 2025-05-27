@@ -49,4 +49,3 @@
 - [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) (since Oct 2022)
 - [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) (since Mar 2023)
 - [Rust Denver](https://www.meetup.com/rust-boulder-denver/) (since Apr 2022)
-- [Technical Misfits](https://www.meetup.com/technical-misfits/) (since Aug 2024)
