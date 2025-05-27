@@ -17,6 +17,7 @@
 - [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/)
 - [Colorado Product Meetup](https://www.meetup.com/colorado-product/)
 - [DDD Denver](https://www.meetup.com/ddd-denver/)
+- [Denver AI Developers Group](https://www.meetup.com/aittg-denver/)
 - [Denver AI/LLMs/ML Developers](https://www.meetup.com/denver-ai-llms/)
 - [Denver Cloud Security Meetup](https://www.meetup.com/denver-cloud-security-meetup/)
 - [Denver Code and Coffee](https://www.meetup.com/denver-code-coffee/) (has its own Discord group)
