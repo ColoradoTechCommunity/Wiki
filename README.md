@@ -52,7 +52,7 @@
 | [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI
 | ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
-| [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack group.
+| [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
 | [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/) | Testing
 | [UX Book Club Denver](https://www.meetup.com/uxbc-denver/) | UX
 | [Women in Technical Infrastructure (WITI)](https://www.meetup.com/women-in-technical-infrastructure-witi/) | IT infrastructure, women in tech
