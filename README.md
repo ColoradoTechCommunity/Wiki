@@ -15,7 +15,6 @@
 | [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/) | Java, JVM
 | [Boulder JS](https://www.meetup.com/boulder-js/) | ECMAScript
 | [Boulder Ruby](https://lu.ma/boulder-ruby) | Ruby
-| [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/) | Rust | | Needs an organizer.
 | [Boulder Tech Connect](https://www.meetup.com/boulder-tech-connect/) | General tech | Happy hour, networking
 | [The Brain Wave Collective](https://www.meetup.com/brain-wave-collective/) | AI, ML
 | [Cocoaheads Denver](https://www.meetup.com/cocoaheadsdenver/) | Apple development
