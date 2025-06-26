@@ -49,7 +49,7 @@
 | [New Tech Colorado](https://www.meetup.com/bdnewtech/) | General tech | | Has its own [Slack](http://newte.ch/slack). a/k/a Boulder New Tech.
 | [OWASP Denver Chapter](https://www.meetup.com/owasp-denver-chapter/) | Security | Networking, talks 
 | [React Denver](https://reactdenver.com/) | React | | Has its own Discord group.
-| [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI
+| [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI | | Has its own [Slack](https://join.slack.com/t/rmaiig/shared_invite/zt-2oqy6vepv-WFdvmfp1ceQU9LcnQZvQaw) and [many subgroups](https://linktr.ee/rmaiig).
 | ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
 | [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
