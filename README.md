@@ -11,7 +11,7 @@
 | ------ | ----- | ---- | -----
 | [AI Tinkerers – Denver-Boulder](https://denver-boulder.aitinkerers.org/) | AI
 | [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/) | APIs
-| [Boulder AI Builders](https://www.boulderaibuilders.org) | AI
+| [Colorado AI Builders](https://www.boulderaibuilders.org) | AI
 | [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/) | Java, JVM
 | [BoulderJS](https://lu.ma/boulderjs) | ECMAScript
 | [Boulder Ruby](https://lu.ma/boulder-ruby) | Ruby
