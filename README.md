@@ -46,7 +46,7 @@
 | [GDG Denver](https://www.meetup.com/gdg-denver/) | Google development
 | [Meet n Code](https://www.meetup.com/meet-n-code/) | General tech | Code & coffee | Has its own Discord group.
 | [Mile High Gophers – Denver](https://meetup.com/denver-go-language-user-group/) | Golang
-| [New Tech Colorado](https://www.meetup.com/bdnewtech/) | General tech | | a/k/a Boulder New Tech
+| [New Tech Colorado](https://www.meetup.com/bdnewtech/) | General tech | | Has its own [Slack](http://newte.ch/slack). a/k/a Boulder New Tech.
 | [OWASP Denver Chapter](https://www.meetup.com/owasp-denver-chapter/) | Security | Networking, talks 
 | [React Denver](https://reactdenver.com/) | React | | Has its own Discord group.
 | [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI
