@@ -11,13 +11,13 @@
 | ------ | ----- | ---- | -----
 | [AI Tinkerers – Denver-Boulder](https://denver-boulder.aitinkerers.org/) | AI
 | [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/) | APIs
-| [Colorado AI Builders](https://www.boulderaibuilders.org) | AI
 | [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/) | Java, JVM
 | [BoulderJS](https://lu.ma/boulderjs) | ECMAScript
 | [Boulder Ruby](https://lu.ma/boulder-ruby) | Ruby
 | [Boulder Tech Connect](https://lu.ma/boulder-tech-connect) | General tech | Happy hour, networking
 | [The Brain Wave Collective](https://www.meetup.com/brain-wave-collective/) | AI, ML
 | [Cocoaheads Denver](https://www.meetup.com/cocoaheadsdenver/) | Apple development
+| [Colorado AI Builders](https://www.boulderaibuilders.org) | AI
 | [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/) | Game development
 | [Colorado Product Meetup](https://www.meetup.com/colorado-product/) | Product management
 | [DDD Denver](https://www.meetup.com/ddd-denver/) | Domain-driven development
