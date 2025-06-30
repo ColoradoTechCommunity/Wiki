@@ -5,6 +5,7 @@
 
 - [Books](books.md)
 - [Bootcamps](bootcamps.md)
+- [Coffee Shops](coffee-shops.md)
 - [Communities](communities.md)
 - [Conferences](conferences.md)
 - [Coworking Spaces](coworking-spaces.md)
