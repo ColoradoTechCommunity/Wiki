@@ -6,6 +6,7 @@
 - [Books](books.md)
 - [Bootcamps](bootcamps.md)
 - [Communities](communities.md)
+- [Conferences](conferences.md)
 - [Coworking Spaces](coworking-spaces.md)
 - [Job Boards](job-boards.md)
 - [Meetups](meetups.md)
