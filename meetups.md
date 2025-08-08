@@ -61,6 +61,7 @@
 | [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI | | Has its own [Slack](https://join.slack.com/t/rmaiig/shared_invite/zt-2oqy6vepv-WFdvmfp1ceQU9LcnQZvQaw) and [many subgroups](https://linktr.ee/rmaiig).
 | ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
+| [Software Freedom School in Denver](https://www.meetup.com/sofreeus/) | FOSS
 | [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
 | [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/) | Testing
 | [UX Book Club Denver](https://www.meetup.com/uxbc-denver/) | UX
