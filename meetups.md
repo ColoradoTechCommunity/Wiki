@@ -9,6 +9,7 @@
 | [AI Tinkerers – Denver-Boulder](https://denver-boulder.aitinkerers.org/) | AI
 | [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/) | APIs
 | [Boulder AWS](https://www.meetup.com/boulder-aws-amazon-web-services/) | AWS
+| [Boulder Data Science, Machine Learning & AI](https://www.meetup.com/boulderdatascience/) | Data science, ML, AI
 | [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/) | Java, JVM
 | [BoulderJS](https://lu.ma/boulderjs) | ECMAScript
 | [Boulder Linux Users Group (BLUG)](https://www.meetup.com/boulder-linux-users-group-blug/) | Linux
