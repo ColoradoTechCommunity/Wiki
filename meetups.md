@@ -50,6 +50,7 @@
 | [Develop Denver](https://www.meetup.com/develop-denver/) | General tech | | Has its own Discord group.
 | [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) | General tech | Happy hour, networking
 | [DevOps Boulder](https://www.meetup.com/devops-boulder/) | DevOps
+| [DigitalOcean Denver](https://www.meetup.com/digitaloceandenver/) | DevOps, cloud
 | [Front Range Platform Engineering](https://www.meetup.com/front-range-platform-engineering/) | Platform engineering
 | [The Future of Web3 (FW3)](https://lu.ma/fw3) | Web3
 | [GDG Denver](https://www.meetup.com/gdg-denver/) | Google development
