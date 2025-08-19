@@ -65,6 +65,7 @@
 | ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
 | [Software Freedom School in Denver](https://www.meetup.com/sofreeus/) | FOSS
+| [Tech Confluence](https://www.meetup.com/techconfluence/)
 | [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
 | [The Test Tribe Denver](https://www.meetup.com/the-test-tribe-denver/) | Testing
 | [UX Book Club Denver](https://www.meetup.com/uxbc-denver/) | UX
