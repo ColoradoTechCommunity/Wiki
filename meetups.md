@@ -45,6 +45,7 @@
 | [Denver R User Group (RUG)](https://www.meetup.com/DenverRUG/) | R
 | [DenverScript](https://www.meetup.com/denverscript/) | ECMAscript | Networking, talks
 | [Denver ServiceNow Developer Meetup](https://www.meetup.com/denver-servicenow-developer-meetup/) | ServiceNow
+| [Denver Tech + Design](https://www.meetup.com/denver-tech-design-community/)
 | [Develop Denver](https://www.meetup.com/develop-denver/) | General tech | | Has its own Discord group.
 | [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) | General tech | Happy hour, networking
 | [DevOps Boulder](https://www.meetup.com/devops-boulder/) | DevOps
