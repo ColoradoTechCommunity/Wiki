@@ -35,6 +35,7 @@
 | [Denver Data Science and Machine Learning Group](https://www.meetup.com/denverml/) | Data science, ML
 | [Denver Data Storytellers](https://www.meetup.com/denver-data-storytellers/) | Data
 | [Denver DevOps Meetup](https://www.meetup.com/denverdevops/) | DevOps
+| [Denver Droids (Denver Android Developers Group)](https://www.meetup.com/denverdroids/) | Android
 | [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/) | BEAM, Erlang, Elixir
 | [Denver Food and Tech](https://www.meetup.com/denverfoodandtech/) | General tech | Dinner, networking
 | [Denver Hardware](https://www.meetup.com/denver-hardware/) | Hardware | Talks
