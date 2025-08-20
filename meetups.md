@@ -64,7 +64,8 @@
 | [React Denver](https://reactdenver.com/) | React | | Has its own Discord group.
 | [R-Ladies Aurora](https://www.meetup.com/rladies-aurora/) | R, FOSS, women in tech | | Local chapter of [R-Ladies Global](https://www.rladies.org).
 | [Rocky Mountain AI Interest Group (RMAIIG)](https://www.meetup.com/rmaiig/) | AI | | Has its own [Slack](https://join.slack.com/t/rmaiig/shared_invite/zt-2oqy6vepv-WFdvmfp1ceQU9LcnQZvQaw) and [many subgroups](https://linktr.ee/rmaiig).
-| ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI | | Subgroup of RMAIIG.
+| ➤ [AI Ethics SIG](https://www.meetup.com/rmaiig-ai-ethics-sig/) | AI, ethics | | Subgroup of RMAIIG.
+| ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI, product management | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
 | [Software Freedom School in Denver](https://www.meetup.com/sofreeus/) | FOSS
 | [Tech Confluence](https://www.meetup.com/techconfluence/)
