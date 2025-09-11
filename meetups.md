@@ -7,6 +7,7 @@
 | Meetup | Topic | Type | Notes
 | ------ | ----- | ---- | -----
 | [Agile Denver](https://www.meetup.com/agile-denver2/) | Agile
+| ➤ [Agile Denver North](https://www.meetup.com/agile-denver-north/) | Agile
 | [AI Tinkerers – Denver-Boulder](https://denver-boulder.aitinkerers.org/) | AI
 | [API Denver Meetup Group](https://www.meetup.com/denver-apis-meetup-group/) | APIs
 | [Boulder AWS](https://www.meetup.com/boulder-aws-amazon-web-services/) | AWS
