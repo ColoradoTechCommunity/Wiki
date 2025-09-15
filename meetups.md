@@ -53,7 +53,6 @@
 | [Denver Tech + Design](https://www.meetup.com/denver-tech-design-community/)
 | [Develop Denver](https://www.meetup.com/develop-denver/) | General tech | | Has its own Discord group.
 | [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) | General tech | Happy hour, networking
-| [DevOps Boulder](https://www.meetup.com/devops-boulder/) | DevOps
 | [DigitalOcean Denver](https://www.meetup.com/digitaloceandenver/) | DevOps, cloud
 | [Front Range Platform Engineering](https://www.meetup.com/front-range-platform-engineering/) | Platform engineering
 | [The Future of Web3 (FW3)](https://lu.ma/fw3) | Web3
@@ -70,6 +69,7 @@
 | ➤ [AI Ethics SIG](https://www.meetup.com/rmaiig-ai-ethics-sig/) | AI, ethics | | Subgroup of RMAIIG.
 | ➤ [AI & Product Colorado](https://www.meetup.com/meetup-group-ai-and-product/) | AI, product management | | Subgroup of RMAIIG.
 | ➤ [Denver AI Group](https://www.meetup.com/denverai/) | AI | | Subgroup of RMAIIG.
+| [Secure AI & DevOps Boulder](https://www.meetup.com/secure-ai-devops-boulder/) | DevOps, AI, security
 | [Software Freedom School in Denver](https://www.meetup.com/sofreeus/) | FOSS
 | [Tech Confluence](https://www.meetup.com/techconfluence/)
 | [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
