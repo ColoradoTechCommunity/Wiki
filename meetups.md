@@ -52,7 +52,7 @@
 | [Denver Tech + Design](https://www.meetup.com/denver-tech-design-community/)
 | [Develop Denver](https://www.meetup.com/develop-denver/) | General tech | | Has its own Discord group.
 | [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) | General tech | Happy hour, networking
-| [DevOpsDays Rockies Monthly Meetup](https://www.meetup.com/denverdevops/) | DevOps | | Part of [DenverDevOps](https://www.meetup.com/pro/denverdevops/).
+| [DevOpsDays Rockies Monthly Meetup](https://www.meetup.com/denverdevops/) | DevOps | | Part of [DenverDevOps](https://www.meetup.com/pro/denverdevops/). Has its own Slack group.
 | [DigitalOcean Denver](https://www.meetup.com/digitaloceandenver/) | DevOps, cloud
 | [Front Range Hard Tech](https://www.meetup.com/front-range-hard-tech/) | Deep tech, hard tech
 | [Front Range Platform Engineering](https://www.meetup.com/front-range-platform-engineering/) | Platform engineering
