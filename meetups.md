@@ -41,7 +41,7 @@
 | [Denver Droids (Denver Android Developers Group)](https://www.meetup.com/denverdroids/) | Android
 | [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/) | BEAM, Erlang, Elixir
 | [Denver Food and Tech](https://www.meetup.com/denverfoodandtech/) | General tech | Dinner, networking
-| [Denver Hardware](https://www.meetup.com/denver-hardware/) | Hardware | Talks
+| [Denver Hardware Meetup](https://luma.com/den-hardware-meetup) | Hardware | Talks
 | [Denver Java Users Group](https://www.meetup.com/denverjavausersgroup/) | Java, JVM
 | [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/) | MLOps
 | [Denver Python Meetup](https://meetup.com/denver-python-meetup/) | Python
