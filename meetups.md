@@ -78,6 +78,7 @@
 | [TechYeet](https://www.meetup.com/techyeet/) | General tech | | Has its own Slack and Discord groups.
 | [The Test Tribe Denver](https://www.thetesttribe.com/meetups/denver/) | Testing
 | [UX Over](https://www.meetup.com/uxover/) | UX
+| [Women&TECH Colorado](https://www.meetup.com/women-andtech-colorado) | Women in tech
 | [Women in Technical Infrastructure (WITI)](https://www.meetup.com/women-in-technical-infrastructure-witi/) | IT infrastructure, women in tech
 
 ## Active since COVID but currently inactive
