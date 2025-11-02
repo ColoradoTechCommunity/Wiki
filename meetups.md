@@ -43,6 +43,7 @@
 | [Denver Erlang and Elixir](https://www.meetup.com/denver-erlang-elixir/) | BEAM, Erlang, Elixir
 | [Denver Food and Tech](https://www.meetup.com/denverfoodandtech/) | General tech | Dinner, networking
 | [Denver Hardware Meetup](https://luma.com/den-hardware-meetup) | Hardware | Talks
+| [Denver Information Technology Executives (DITEX)](https://ditex.org) | IT, executive
 | [Denver Java Users Group](https://www.meetup.com/denverjavausersgroup/) | Java, JVM
 | [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/) | MLOps
 | [Denver Python Meetup](https://meetup.com/denver-python-meetup/) | Python
