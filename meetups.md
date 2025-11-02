@@ -26,6 +26,7 @@
 | [Colorado independent Game Developers Association (CiGDA)](https://www.meetup.com/mycigda/) | Game development
 | [Colorado Product Meetup](https://www.meetup.com/colorado-product/) | Product management
 | [Colorado Project Management Meetup](https://www.meetup.com/colorado-project-management-meetup/) | Project management
+| [Colorado Technology Sales Professionals](https://www.meetup.com/colorado-technology-sales-meetup/) | Tech sales
 | [DDD Denver](https://www.meetup.com/ddd-denver/) | Domain-driven development
 | [denhac - The Denver Hackerspace](https://www.meetup.com/denhac-hackerspace/) | Hackerspace
 | [Denver AI/LLMs/ML Developers](https://www.meetup.com/denver-ai-llms/) | AI, data science, deep learning, ML, NLP | | a/k/a [Denver AI Developers Group](https://www.meetup.com/aittg-denver/)
