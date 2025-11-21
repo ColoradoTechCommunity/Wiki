@@ -17,7 +17,7 @@
 | [Boulder Blockchain Meetup](https://www.meetup.com/Boulder-Blockchain/) | Blockchain
 | [Boulder Data Science, Machine Learning & AI](https://www.meetup.com/boulderdatascience/) | Data science, ML, AI
 | [Boulder Java Users Group](https://www.meetup.com/boulderjavausersgroup/) | Java, JVM
-| [BoulderJS](https://lu.ma/boulderjs) | ECMAScript
+| [BoulderJS](https://boulderjs.org) | ECMAScript
 | [Boulder Linux Users Group (BLUG)](https://www.meetup.com/boulder-linux-users-group-blug/) | Linux
 | [Boulder Open Coffee](https://www.meetup.com/boulder-open-coffee/) | General tech, startup, investment, entrepreneurship
 | [Boulder Ruby](https://lu.ma/boulder-ruby) | Ruby
