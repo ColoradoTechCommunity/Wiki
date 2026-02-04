@@ -69,7 +69,6 @@
 | [Mile High Gophers – Denver](https://meetup.com/denver-go-language-user-group/) | Golang
 | [New Tech Colorado](https://www.meetup.com/bdnewtech/) | General tech | | Has its own [Slack](http://newte.ch/slack). a/k/a Boulder New Tech.
 | [NoCo Hackers](https://www.meetup.com/noco-hackers/) | Security
-| [OWASP Boulder Chapter](https://www.meetup.com/owasp-boulder/) | Security | Networking, talks | Chapter of [OWASP](https://www.meetup.com/members/209437456/).
 | [OWASP Denver Chapter](https://www.meetup.com/owasp-denver-chapter/) | Security | Networking, talks | Chapter of [OWASP](https://www.meetup.com/members/209437456/).
 | [PySprings](https://www.meetup.com/pysprings/) | Python
 | [React Denver](https://www.meetup.com/reactdenvercom/) | React | | Has its own Discord group.
