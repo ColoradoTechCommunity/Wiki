@@ -34,7 +34,6 @@
 | [denhac - The Denver Hackerspace](https://www.meetup.com/denhac-hackerspace/) | Hackerspace
 | [Denver AI/LLMs/ML Developers](https://www.meetup.com/denver-ai-llms/) | AI, data science, deep learning, ML, NLP | | a/k/a [Denver AI Developers Group](https://www.meetup.com/aittg-denver/)
 | [Denver / Boulder Unreal Engine](https://www.meetup.com/denver-boulder-unreal-engine/) | Game dev, Unreal Engine
-| [Denver Cloud Security Meetup](https://www.meetup.com/denver-cloud-security-meetup/) | Security
 | [Denver Code and Coffee](https://www.meetup.com/denver-code-coffee/) | General tech | Code & coffee, networking | Has its own Discord group.
 | [Denver\|CO Fintech](https://meetup.com/denver-co-fintech/) | Fintech
 | [Denver C++ Meetup](https://www.meetup.com/north-denver-metro-c-meetup/) | C++ | | Has its own Discord group.
