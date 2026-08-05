@@ -31,6 +31,7 @@
 | [Colorado Project Management Meetup](https://www.meetup.com/colorado-project-management-meetup/) | Project management
 | [Colorado Technology Sales Professionals](https://www.meetup.com/colorado-technology-sales-meetup/) | Tech sales
 | [DDD Denver](https://www.meetup.com/ddd-denver/) | Domain-driven development
+| [The Den of Clojure](https://www.meetup.com/denofclojure/) | Clojure
 | [denhac - The Denver Hackerspace](https://www.meetup.com/denhac-hackerspace/) | Hackerspace
 | [Denver AI/LLMs/ML Developers](https://www.meetup.com/denver-ai-llms/) | AI, data science, deep learning, ML, NLP | | a/k/a [Denver AI Developers Group](https://www.meetup.com/aittg-denver/)
 | [Denver / Boulder Unreal Engine](https://www.meetup.com/denver-boulder-unreal-engine/) | Game dev, Unreal Engine
@@ -89,7 +90,6 @@
 
 | Meetup | Topic | Inactive since
 | ------ | ----- | --------------
-| [The Den of Clojure](https://www.meetup.com/denofclojure/) | Clojure | Jul 2023
 | [Bootcampers Collective](https://www.meetup.com/Bootcampers-Collective/) | Bootcampers and self-taught developers | Jul 2024
 | [Denver Microservices](https://www.meetup.com/DenverMicroservices/) | Microservices | Feb 2024
 | [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) | FOSS | Oct 2022
