@@ -49,6 +49,7 @@
 | [Denver Information Technology Executives (DITEX)](https://ditex.org) | IT, executive
 | [Denver Java Users Group](https://www.meetup.com/denverjavausersgroup/) | Java, JVM
 | [Denver MLOps Community](https://www.meetup.com/denver-mlops-community/) | MLOps
+| [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) | FOSS
 | [Denver Python Meetup](https://meetup.com/denver-python-meetup/) | Python
 | [Denver Python Users Group](https://www.meetup.com/denverpython/) | Python
 | [Denver R User Group (RUG)](https://www.meetup.com/DenverRUG/) | R
@@ -91,6 +92,5 @@
 | Meetup | Topic | Inactive since
 | ------ | ----- | --------------
 | [Bootcampers Collective](https://www.meetup.com/Bootcampers-Collective/) | Bootcampers and self-taught developers | Jul 2024
-| [Denver Open Source Users Group](https://www.meetup.com/DOSUG1/) | FOSS | Oct 2022
 | [Denver Vue.js Meetup](https://www.meetup.com/denver-vue-js-meetup/) | Vue.js | Mar 2023
 | [Rust Denver](https://www.meetup.com/rust-boulder-denver/) | Rust | Apr 2022
